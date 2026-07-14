@@ -1,69 +1,75 @@
-# The E-Commerce AI Revolution (2024-2026)
+# Costco AI Commerce Timeline (2024-2026)
 
-![Presentation cover](assets/cover.png)
+![The E-Commerce AI Revolution presentation cover](assets/cover.png)
 
-An original seven-slide presentation exploring how artificial intelligence is reshaping e-commerce from semantic product discovery to agentic commerce.
+## Overview
 
-这是一份原创的七页演示文稿，探讨人工智能如何推动电子商务从语义商品发现发展到智能体商业。
+This project presents a forward-looking timeline for how Costco can respond to the rapid adoption of artificial intelligence in e-commerce between 2024 and 2026. Amazon serves as the primary competitive benchmark because its Rufus shopping assistant and COSMO semantic discovery system demonstrate how AI can reshape product search, recommendation, and customer intent recognition at scale.
 
-## View the presentation | 查看作品
+The timeline also draws supporting lessons from eBay, Temu, Shein, and Alibaba. Together, these platform examples show a broader transition from AI-assisted discovery to algorithmic supply chains and, ultimately, agentic commerce. The goal is to translate that market evolution into practical priorities for Costco rather than simply catalogue a set of presentation slides.
 
-[Open the complete PDF](docs/The%20E-Commerce%20AI%20Revolution%20%282024-2026%29.pdf)
+## Strategic Question
 
-## Project overview | 项目概述
+How can Costco preserve the strengths of its membership model while closing the AI-commerce capability gap with Amazon?
 
-The presentation follows a strategic timeline across three stages:
+Costco's competitive advantage is built on member trust, value, a curated assortment, and high-volume purchasing. Amazon's digital advantage comes from deep behavioral data, personalized discovery, and a highly developed AI interface. The opportunity for Costco is not to copy Amazon's endless-aisle model, but to apply AI in ways that make its focused assortment easier to discover, its member experience more relevant, and its supply chain more responsive.
 
-- **2024 - Semantic discovery and smart listing:** Amazon Rufus, COSMO, and eBay's AI-assisted listing tools.
-- **2025 - Algorithmic supply chains:** the integration of Shein, Temu, and ERPNext-style operational systems.
-- **2026 - Agentic commerce and virtual spaces:** persistent account memory, virtual try-on and fit, and cross-border synchronization.
+## Timeline
 
-演示文稿围绕三个阶段展开：
+### 2024 — Semantic Discovery and Smart Commerce Foundations
 
-- **2024 - 语义发现与智能刊登：** Amazon Rufus、COSMO 与 eBay 的 AI 辅助商品刊登工具。
-- **2025 - 算法驱动的供应链：** Shein、Temu 与 ERPNext 类运营系统的整合。
-- **2026 - 智能体商业与虚拟空间：** 持久账户记忆、虚拟试穿与跨境同步。
+Amazon's Rufus and COSMO illustrate the shift from keyword search toward intent-aware shopping. Customers can ask conversational questions, compare products, and receive recommendations shaped by context rather than exact search terms. eBay's AI-assisted “Magical Listings” similarly reduces seller friction by generating structured listing content from limited inputs.
 
-The final slides compare platform AI strategies and translate the research into a practical retailer playbook covering intent-based discovery, micro-feedback loops, automated catalog onboarding, and multi-agent deployment.
+**Implication for Costco:** Build a member-centered discovery layer that can understand missions such as stocking a household, planning an event, or finding the best value for a family. Costco can combine conversational search with its smaller, curated product catalogue to provide clearer and more trustworthy recommendations.
 
-最后两部分比较主要平台的 AI 战略，并将研究转化为零售商行动方案，包括基于意图的发现、微反馈闭环、自动化目录导入和多智能体部署。
+### 2025 — Algorithmic Supply Chains
 
-## Learning objectives | 学习目标
+Temu and Shein demonstrate how customer signals can be connected directly to sourcing, inventory, and production decisions. Their Customer-to-Manufacturer approaches use demand feedback and smaller test batches to reduce overproduction and react quickly to changing preferences.
 
-- Describe the recent development of AI in e-commerce.
-- Identify leading platforms, models, and applied AI systems.
-- Explain how discovery, supply-chain operations, and customer experience are converging.
-- 将人工智能历史与电子商务中的近期应用联系起来。
-- 识别主要平台、模型与实际 AI 系统。
-- 解释商品发现、供应链运营与客户体验如何逐步融合。
+**Implication for Costco:** Connect digital behavior, warehouse demand, membership patterns, and regional purchasing signals more closely to forecasting and replenishment. AI should support buyers and operators by identifying demand shifts early while preserving human oversight and Costco's disciplined merchandising model.
 
-## Contents | 内容结构
+### 2026 — Agentic Commerce and Virtual Experiences
 
-1. The E-Commerce AI Revolution (2024-2026)
-2. 2024: Semantic Discovery & Smart Listing
-3. 2025: Algorithmic Supply Chains
-4. 2026: Agentic Commerce & Virtual Spaces
-5. The Platform AI Deployment Matrix
-6. The Retailer Playbook: How to Compete
-7. Image Sources
+The next stage moves beyond isolated recommendations toward persistent shopping agents. These systems can remember preferences, coordinate multi-step purchases, support virtual product experiences, and synchronize customer journeys across regions and channels. Alibaba's virtual try-on and cross-border commerce capabilities illustrate how these interfaces may become more immersive and localized.
 
-## Course resources | 课程资料
+**Implication for Costco:** Develop an opt-in member assistant that can remember household preferences, assemble repeat purchases, recommend coordinated bundles, and connect online planning with warehouse fulfillment. Strong consent, privacy controls, and transparent recommendations should distinguish Costco's approach.
+
+## Costco and Amazon: Strategic Comparison
+
+| Dimension | Amazon benchmark | Opportunity for Costco |
+| --- | --- | --- |
+| Customer relationship | Broad customer reach and extensive behavioral data | Trusted paid membership with high-quality household purchasing signals |
+| Product discovery | Conversational, personalized, and intent-aware | Guided discovery across a curated assortment with value-focused explanations |
+| Assortment model | Very large marketplace and long-tail selection | Limited, high-confidence selection that can reduce decision fatigue |
+| Supply chain AI | Large-scale forecasting, fulfillment, and recommendation feedback loops | Member- and warehouse-informed forecasting with buyer oversight |
+| AI interface | Rufus and other embedded shopping experiences | A privacy-conscious Costco member assistant across digital and warehouse journeys |
+| Strategic objective | Maximize convenience, selection, and transaction frequency | Strengthen member value, renewal, trust, and operational efficiency |
+
+## Recommended Priorities for Costco
+
+1. Launch intent-based discovery for high-value member shopping missions rather than relying only on keyword indexing.
+2. Create rapid feedback loops between digital interactions, warehouse demand, buyers, and inventory teams.
+3. Use AI to improve product onboarding, catalogue metadata, and comparison content.
+4. Introduce an opt-in member memory layer with clear privacy and consent controls.
+5. Pilot coordinated AI agents for discovery, replenishment, and fulfillment while keeping people accountable for consequential decisions.
+
+## View the Full Timeline
+
+[Open the seven-page PDF presentation](docs/The%20E-Commerce%20AI%20Revolution%20%282024-2026%29.pdf)
+
+The presentation includes the 2024-2026 timeline, a platform AI deployment matrix, and a retailer playbook derived from the comparison.
+
+## Background Resources
 
 - Putchuon - Put You On. [The Entire History of Artificial Intelligence (Last 100 Years)](https://www.youtube.com/watch?v=mSd9nmPM7Vg). YouTube, May 30, 2024.
 - IEEE Computer Society. [The Evolution of AI: From Foundations to Future Prospects](https://www.computer.org/publications/tech-news/research/evolution-of-ai).
 - Our World in Data. [A Brief History of Artificial Intelligence](https://ourworldindata.org/brief-history-of-ai).
 
-## Format
+## Authors
 
-- 7 slides
-- 16:9 landscape layout
-- PDF presentation
-- Language: English
-
-## Author
-
-Zihuan Wang
+- Zihuan Wang
+- Xiaodi Yang
 
 ## Rights
 
-Copyright © 2026 Zihuan Wang. This repository is shared for portfolio and educational viewing. All third-party names, trademarks, and referenced imagery remain the property of their respective owners.
+Copyright © 2026 Zihuan Wang and Xiaodi Yang. This repository is shared for portfolio and educational viewing. All third-party names, trademarks, and referenced imagery remain the property of their respective owners.
